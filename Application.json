@@ -1,13 +1,21 @@
 [
   {
-    "accessRoles": [],
-    "applicationI18nFiles": [],
+    "accessRoles": null,
     "applicationId": "2dd59915-97f8-4fb6-8f84-e35be54ca1b8",
     "applicationName": "MR_GC_TESTER",
     "applicationState": "DRAFT",
     "defaultBranch": "develop",
     "gitUrl": "https://github.com/michaelraynak/GC_test",
     "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
-    "sections": []
+    "sections": [
+      {
+        "accessRoles": null,
+        "privileges": null,
+        "name": "section1",
+        "icon": "Address Book",
+        "pageDefinitionId": "5583908b-2ab5-4def-ac49-4615867a0755",
+        "sections": []
+      }
+    ]
   }
 ]
