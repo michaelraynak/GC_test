@@ -1,0 +1,13 @@
+[
+  {
+    "accessRoles": [],
+    "applicationI18nFiles": [],
+    "applicationId": "2dd59915-97f8-4fb6-8f84-e35be54ca1b8",
+    "applicationName": "MR_GC_TESTER",
+    "applicationState": "DRAFT",
+    "defaultBranch": "develop",
+    "gitUrl": "https://github.com/michaelraynak/GC_test",
+    "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
+    "sections": []
+  }
+]
